@@ -8,7 +8,16 @@ Serão links da documentação oficial, livros, vídeos sobre a ferramenta em si
 # Por quanto tempo ficará disponível?
 Por tempo indeterminado, pois haverão updates e/ou correções sempre que possível, e também serão incluídos novos links conforme a necessidade dos usuários e a minha disponibilidade de tempo.
 
-# Idiomas da documentação e o por quê em preferir em inglês?
+# Quais os idiomas da documentação e o por quê em preferir em inglês?
+Os idiomas atualmente disponíveis são:
+  Inglês
+  Chinês
+  Português
+  Russo
+  Japonês
+  Francês
+  Polonês
+
 Em algumas páginas, a documentação do Zabix em PT-BR contém erros ou simplesmente ainda não foi traduzido. Portanto, para evitar más interpretações do que ali se refere, opte pela documentação em inglês.
 
 # Additional Infos
