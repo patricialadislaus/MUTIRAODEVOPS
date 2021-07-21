@@ -20,5 +20,5 @@ Os idiomas atualmente disponíveis são:
 
 Em algumas páginas, a documentação do Zabix em PT-BR contém erros ou simplesmente ainda não foi traduzido. Portanto, para evitar más interpretações do que ali se refere, opte pela documentação em inglês.
 
-# Additional Infos
-Caso desejarem sugerir ou solicitar algum material, favor encaminhar via e-mail (patricialadislaus@gmail.com) com a TAG no assunto/subject "GITHUB-MUTIRAODEVOPS".
+# E por último, porém não menos importante...
+Caso desejarem sugerir ou solicitar algum material, feedbacks (ou reclamar de algo também), favor encaminhar via e-mail (patricialadislaus@gmail.com) com a TAG no assunto/subject "GITHUB-MUTIRAODEVOPS".
