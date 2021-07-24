@@ -2,7 +2,7 @@
 Repo dedicado aos materiais referenciados/necessários na aula de Monitoramento do MUTIRAODEVOPS.
 
 # Como funciona isso aqui, Patty?
-Está separado em subfolders, links de materiais que irão guiá-lo durante o aprendizado sobre Zabbix e monitoramento. 
+É uma simples lista de links de materiais que irão guiá-lo durante o aprendizado sobre Zabbix e monitoramento.  
 Serão links da documentação oficial, livros, vídeos sobre a ferramenta em si e sobre aplicações que dão suporte ao Zabbix.
 
 # Por quanto tempo ficará disponível?
