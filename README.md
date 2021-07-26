@@ -1,4 +1,4 @@
-# MUTIRAODEVOPS
+# Este será seu guia do MUTIRAODEVOPS para aprender sobre Zabbix! =)
 Repo dedicado aos materiais referenciados/necessários na aula de Monitoramento do MUTIRAODEVOPS.
 
 # Como funciona isso aqui, Patty?
