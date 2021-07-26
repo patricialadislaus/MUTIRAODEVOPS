@@ -1,5 +1,5 @@
 # Este será seu guia do MUTIRAODEVOPS para aprender sobre Zabbix! =)
-Repo dedicado aos materiais referenciados/necessários na aula de Monitoramento do MUTIRAODEVOPS.
+Repo dedicado aos materiais referenciados/necessários na aula de Monitoramento do MUTIRAODEVOPS. Chamo de guia pois, com ele, será possível você enxergar os caminhos para monitorar e entender como a ferramenta funciona da melhor forma possível, e se aprofundar nos conceitos expostos na live de 24/07/2021.
 
 # Como funciona isso aqui, Patty?
 Serão dispostas aqui, algumas listas com indicações (links) de materiais que irão guiar/ajudar você durante seu aprendizado/treinamento de habilidades sobre Zabbix e monitoramento.  
