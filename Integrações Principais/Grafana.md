@@ -16,7 +16,7 @@ Para instalar o Grafana, verifique a plataforma a qual designará para ser seu G
   * Instalação do Grafana: https://grafana.com/grafana/download?pg=get&plcmt=selfmanaged-box1-cta1 e https://grafana.com/docs/grafana/latest/installation/
   * Depois de instalado, verifique a documentação para guiá-lo com as configurações pós-instalação: https://grafana.com/docs/grafana/latest/
 
-### Ok, Grafana instalado, agora eu quero integrálo ao meu Zabbix! ###
+### Ok, Grafana instalado, agora eu quero integrá-lo ao meu Zabbix! ###
 Nesta etapa, você já tem seu grafana-server instalado e irá realizar a instalação do plugin via _grafana-cli_, seguindo inicialmente as instruções abaixo:
 * Visão Geral: https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app/
 * Install do plugin: https://grafana.com/grafana/plugins/alexanderzobnin-zabbix-app/?tab=installation
