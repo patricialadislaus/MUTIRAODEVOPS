@@ -28,7 +28,8 @@ Nesta etapa, você já tem seu grafana-server instalado e irá realizar a instal
 * Informação sobre a CLI do Grafana (caso interesse explorar):
   * https://grafana.com/docs/grafana/latest/administration/cli/#plugins-commands
 
-###Importante!###
+### Importante! ###
+
 Depois de instalado, é necessário **ativar o plugin**. Para isso, faça o seguinte:
   * Vá até a aba **Apps** do Grafana, na seção de **Plugins**;
   * Acesse a aba **Config**;
